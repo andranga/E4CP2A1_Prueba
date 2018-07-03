@@ -1,0 +1,105 @@
+body,html {
+ 	margin: 0;
+ 	box-sizing: border-box;
+}
+div.seccion1{
+	background-image: url("images/bg.jpeg");
+	padding-bottom: 20px;
+}
+
+div.seccion1 h1{
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+
+div.seccion1 p{
+	text-align: center;
+	color: white;
+	font-size: 9px;
+}
+
+.botones{
+	text-align: center;
+}
+
+#boton_azul{
+	background-color:  #00BFFF;
+	color: white;
+	border-style: none;
+	padding: 0,5%;
+    border-radius: 5px;
+}
+
+#boton_verde{
+	background-color: #82FA58;
+	color: white;
+	border-style: none;
+	padding: 0,5%;
+    border-radius: 5px;
+}
+
+div.seccion2{
+	text-align: center;
+	
+}
+.seccion2 img{
+	border-radius: 0px;
+}
+
+
+
+div.seccion3{
+	text-align: center;
+	background-color: #dddddd;
+	margin: 0;
+	padding: 15px;
+	border-color: black;
+	border-width: 1px 0 1px 0;
+	border-style: solid;
+}
+
+div.seccion4{
+	font-size: 10px;
+	margin: 0;
+	padding: 30px;
+}
+div.seccion4 a{
+	font-size: 10px;
+	text-align: left;
+}
+div.seccion4 p{
+	margin: 0;
+}
+div.seccion5{
+	font-size: 15px;
+	margin: 0;
+	padding: 1px;
+	background-color: #000000;
+	color: white;
+}
+div.contenido_sec5{
+	
+	text-align: left;
+}
+.navbar ul{
+	list-style-type: none;
+	height: 20px;
+	
+}
+.navbar li{
+	padding: 5px 20px 5px 20px;
+	color: white;
+	font-size: 10px;
+	float: right;
+	margin: 0;
+}
+.navbar a{
+	color: #999999;
+}
+.navbar li img{
+	width: 80px;
+}
+#primer_li{
+	float: left;
+}
