@@ -1,4 +1,45 @@
 body,html {
  	margin: 0;
  	box-sizing: border-box;
+ 	padding-top: 27px;
 }
+.section1 ul{
+	list-style-type: none;
+	height: 20px;
+	
+}
+.section1 li{
+	padding: 5px 20px 5px 20px;
+	color: white;
+	font-size: 10px;
+	float: right;
+	margin: 0;
+}
+.section2{
+	padding: 2%;
+}
+.section2 img{
+	width: 100%;
+}
+.section3 .thumbnail{
+	height: 35vw;
+}
+.section3 .ver_mas{
+	position: absolute;
+	bottom: 3vw;
+}
+.section4{
+	background-color: grey;
+	color: white;
+}
+.section4 .thumbnail{
+	background-color: grey;
+}
+.section4 p, a{
+	font-size: 12px;
+	margin: 0;
+}
+.section4 td{
+	padding-left: 11vw;
+}
+
