@@ -22,11 +22,7 @@ body,html {
 	width: 100%;
 }
 .section3 .thumbnail{
-	height: 35vw;
-}
-.section3 .ver_mas{
-	position: absolute;
-	bottom: 3vw;
+	height: 100%;
 }
 .section4{
 	background-color: grey;
@@ -42,4 +38,7 @@ body,html {
 .section4 td{
 	padding-left: 11vw;
 }
+.section4 input{
+	color: black;
 
+}
