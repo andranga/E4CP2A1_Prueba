@@ -25,7 +25,6 @@ body,html {
 	height: 70vh;
 }
 .section3 .thumbnail img{
-	
 	height: 25vh;
 }
 .section3 .ver_mas{
@@ -52,4 +51,9 @@ body,html {
 }
 .map{
 	text-align: center;
+}
+@media (max-width: 767px) {
+	.section3 .thumbnail{
+			height: 55vh;
+	}
 }
